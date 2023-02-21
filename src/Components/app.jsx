@@ -4,8 +4,8 @@ import Navbar from './Components/Navbar.jsx'
 const App = (props) => {
   return (
     <div>
-      <button className="btn">Hello daisyUI</button>
-    </div>
+      <Navbar /> 
+      </div>
   );
 };
 export default App;
